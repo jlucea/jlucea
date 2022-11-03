@@ -2,7 +2,7 @@
 
 # Jaime Lucea
 
- * 👋   Hi! I'm Jaime, a passionate freelance Swift developer and iOS fanatic. 
+ * 👋   Hi! I'm Jaime, a passionate freelance Swift developer and iOS enthusiast. 
 
  * 💙   I’m on a mission to craft beautiful, purposeful iOS apps while working alongside other inspiring digital creators.
 
