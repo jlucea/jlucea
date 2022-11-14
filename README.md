@@ -1,4 +1,4 @@
-![jlucea-ios-banner](https://user-images.githubusercontent.com/26114098/199732220-1fb012af-90ca-42c5-92d4-fb4f85efcc5d.png)
+![GitHub Banner](![GitHub Banner-2](https://user-images.githubusercontent.com/26114098/201718153-68fb8880-ea43-43ea-a6d1-41ddc28190af.png)
 
 # Jaime Lucea
 
@@ -6,13 +6,14 @@
 
  * 💙   I’m on a mission to craft beautiful, purposeful iOS apps while working alongside other inspiring digital creators.
 
- * 🤝   In case you want to connect and/or discuss colaborations you can find me here: jaime@lucea.digital.
+ * 🤝   In case you want to connect and/or discuss colaborations you can find at: jaime@lucea.digital.
 
- * ⭐   Let's create something amazing! 
+ * ⭐   Let's use our time and talent to create something we can be proud of
 
 # Skills
 
 UIKit, SwiftUI, CoreLocation, MapKit, Google Maps, APIs, Networking, Concurrency, CocoaPods
+
 
 
 
