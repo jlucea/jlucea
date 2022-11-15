@@ -1,4 +1,4 @@
-![GitHub Banner](![GitHub Banner-2](https://user-images.githubusercontent.com/26114098/201718153-68fb8880-ea43-43ea-a6d1-41ddc28190af.png)
+![GitHub Banner-2](https://user-images.githubusercontent.com/26114098/201718153-68fb8880-ea43-43ea-a6d1-41ddc28190af.png)
 
 # Jaime Lucea
 
