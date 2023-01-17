@@ -9,9 +9,9 @@
 
  * 💙   I’m on a mission to craft beautiful, purposeful iOS apps while working alongside other inspiring digital creators.
 
- * 🤝   In case you want to connect and/or discuss colaborations you can find at: jaime@lucea.digital.
+ * 🤝   In case you want to connect and/or discuss colaborations you can find at: jlucea.ios@gmail.com
 
- * ⭐   Let's use our time and talent to create something we can be proud of
+ * ⭐   Let's use our time and talent to create something we can be proud of!
 
 # Skills
 
