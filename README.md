@@ -9,7 +9,7 @@ I'm Jaime, a passionate freelance Swift developer and Apple enthusiast.
 
 Success, like happiness, cannot be pursued. It must ensue. And it only does so as the unintended side-effect of one's dedication to a cause greater than oneself. For me, true fulfillment comes from building software products that are meaningful and beautiful, while working alongside inspiring creators and continually pushing the boundaries of what’s possible on Apple platforms.
 
-Here's what you'll find in my repos:
+Here's what you'll find in my public repos:
 
 
 ### 📱 Apps
