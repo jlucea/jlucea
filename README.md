@@ -25,6 +25,8 @@ Here's what you'll find in my public repos:
 
 ### 🧪 SwiftUI Mini-Projects, Experiments and Components
 
+- [Flashy-Buttons](https://github.com/jlucea/flashy-buttons) - An experimental showcase of flashy and creative buttons in SwiftUI.
+
 - [Login-Signup-Template](https://github.com/jlucea/login-signup-template) - A reusable login and signup template.
   
 - [Colorama](https://github.com/jlucea/colorama) - A playground for experimenting with colors and mesh gradients.
